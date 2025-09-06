@@ -10,6 +10,9 @@ public :
 };
 int main(){
 
-
+    Student s; //Creating an object and setting values
+    s.name = "Nabin";
+    s.rno = 21;
+    s.cgpa = 8.5;
     return 0;
 }

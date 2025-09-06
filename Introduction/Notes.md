@@ -2,4 +2,16 @@
 
 Classes are basically user defined blueprint of data structures , whereas objects are <br> instances of classes. <br>
 
+## `Basic Structure of a class :`
+
+```cpp
+class Class_name{
+    string name ;
+    int price ;
+    string model ;
+    string chassis_no;
+    //these are all known as attributes of a class.
+}
+
+
 

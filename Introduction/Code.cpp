@@ -14,5 +14,7 @@ int main(){
     s.name = "Nabin";
     s.rno = 21;
     s.cgpa = 8.5;
+    //we can take input using cin as well.
+    
     return 0;
 }

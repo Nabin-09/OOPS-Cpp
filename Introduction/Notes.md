@@ -12,6 +12,12 @@ class Class_name{
     string chassis_no;
     //these are all known as attributes of a class.
 }
+```
+>Note : If we create multiple object accesing all of them separately is a repititive task.
+
+## `Printing values using a function` 
+
+**Refer to Code2.cpp for the topic**
 
 
 

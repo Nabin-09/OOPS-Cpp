@@ -17,7 +17,11 @@ class Class_name{
 
 ## `Printing values using a function` 
 
-**Refer to Code2.cpp for the topic**
+**Refer to Code2.cpp for the topic :** [Code2.cpp](https://github.com/Nabin-09/OOPS-Cpp/blob/main/Introduction/Code2.cpp)
 
+>Note : By default we do Pass by reference in case of objects too , so if we want <br> to change we have to send it by reference
 
+# `Constructors : `
+
+A constructor is a function who name is same as the class and has no return type , it is <br> automatically called when an object of class is created.
 

@@ -25,7 +25,10 @@ int main(){
     c2.price = 800000;
     c2.seats = 4;
     c2.type = "HatchBack";
-
+adasd
+asdasd
+asdasdasd
+asdasd
     c3.name = "Toyota Fortuner";
     c3.price = 3600000;
     c3.seats = 7;

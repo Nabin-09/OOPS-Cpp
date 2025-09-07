@@ -24,4 +24,3 @@ class Class_name{
 # `Constructors : `
 
 A constructor is a function who name is same as the class and has no return type , it is <br> automatically called when an object of class is created.
-
